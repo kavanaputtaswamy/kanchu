@@ -1,2 +1,2 @@
 # kanchu
-kmc
+kmc<bd>
